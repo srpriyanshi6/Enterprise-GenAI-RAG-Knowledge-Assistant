@@ -1,5 +1,7 @@
 # Enterprise-GenAI-Knowledge-Assistant
 
+# LIVE LINK : https://enterprise-genai-rag-knowledge-assistant.streamlit.app/
+
 A production-grade **Retrieval-Augmented Generation (RAG)** system that enables semantic document search and citation-grounded Q&A over private PDF knowledge bases — powered by Groq, LangChain, FAISS, and HuggingFace Transformers.
 
 ---
